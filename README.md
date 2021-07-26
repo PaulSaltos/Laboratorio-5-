@@ -109,6 +109,19 @@ La corriente en el resistor R5
 
 # 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/85178869/127014709-06a4befd-cf6d-4b1c-b078-58feeaaa7f8c.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127014811-54ec80d2-3bbf-4487-9833-1ff7f96f978b.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127014857-ef60b6e4-1eca-4993-8117-970687313431.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127014910-1e855104-fdfe-468a-afe9-c683ae07708d.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127014982-913bc789-6940-465c-a748-32ca084181eb.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127015031-86cd664b-9163-4c9a-a7ca-4232bc346a69.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127015074-f79e6731-2230-4751-bd75-d98bf3d53bc4.png)
 
 
 # 5. VIDEO
