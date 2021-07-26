@@ -32,9 +32,14 @@ Reducir circuitos complejos a un arreglo de unaresistencia y una fuente de volta
 
 • Analisar teorema de Thevenin sirve para convertir un circuito complejo, que tenga dos terminales , en uno muy sencillo que contenga sólo una fuente de tensión o voltaje (VTh) en serie con una resistencia (RTh)
 
+• Verificar con experimentos los valores de VTH Y RTH analizar un circuito serie-paralelo.
+
 • Obtener los valores de la fuente de corriente y de la resistencia, cuando se tienen los datos del equivalente de thevenin
 
 # 2. MARCO TEORICO
+
+![image](https://user-images.githubusercontent.com/85178869/126939959-db61f656-2dca-44e0-826d-91a6c61ff739.png)
+
 
 # 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -60,6 +65,57 @@ MATERIALES Y EQUIPO REQUERIDO
 
 • Protoboard
 
+Utilizamos el simulador para hacer el circuito electrico
+
+Utilizamos un protoboard
+
+Construir en el protoboard cada uno de los circuitos
+
+Colocamos los resistores en el protoboard en cada uno de los pines del protoboard
+
+Instalamos las  fuente de voltaje
+
+Efectuar y registrar las siguientes mediciones con el Multimetro digital
+
+Anotamos los nodos que hay en el circuito cada voltaje 
+
+5.5.1. Arme el circuito que se muestra en la figura 5.1.
+
+![image](https://user-images.githubusercontent.com/85178869/126942136-2c132b62-0682-4e7a-97af-7f9d55f5a5f4.png)
+
+5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+
+Mida el voltaje
+
+![image](https://user-images.githubusercontent.com/85178869/126942585-bc7bd851-386a-40fd-a432-e1e846fb51b2.png)
+
+La corriente en el resistor R5
+
+![image](https://user-images.githubusercontent.com/85178869/126942317-19bbc907-4771-4a1d-9a88-6dc987e226c5.png)
+
+5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/85178869/126942882-17564e75-f8e0-4fb2-8dd0-e78571907bbe.png)
+
+5.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/85178869/126943136-020fc952-bf99-429d-a254-6beabb4a6126.png)
+
+5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
+
+![image](https://user-images.githubusercontent.com/85178869/126944698-64c67760-03b4-4936-b01e-de3fdc2a855c.png)
+
+# 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 
+
+# 5. VIDEO
+
+# 6. CONCLUSIONES 
+
+• El teorema de Thevenin es muy util por que  nos  permite  reducir  un  circuito complejo, a uno con una configuracion mas sencilla de analiza
+
+• El  teorema  de  Thevenin  se  concluye con  la  ley  de  ohm  para  calcular  la corriente que circula por una rama
+
+•
 
