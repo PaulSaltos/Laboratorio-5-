@@ -26,6 +26,8 @@ A continuación, vamos a definir los objetivos planteados en el informe, de acue
 
 Reducir circuitos complejos a un arreglo de unaresistencia y una fuente de voltaje o corriente.
 
+Realizar mediciones aplicando el teorema de Thévenin para darnos cuenta de que el resultado es el mismo si utilizamos el análisis matemático y el experimental.
+
 • Hallar el equivalente Thevenin de un arreglo deresistencias y una fuente de voltaje
 
 • Verificar los parametros Vth, Rth, Int, Rnt, determinados para los teoremas de thevenin
@@ -117,5 +119,18 @@ La corriente en el resistor R5
 
 • El  teorema  de  Thevenin  se  concluye con  la  ley  de  ohm  para  calcular  la corriente que circula por una rama
 
-•
+• En teorema de THEVENIN se concluye con la ley de Ohm para calcular la corriente circulante 
 
+• Son muy útiles por que nos permite reducir una red de configuración compleja, en una de configuración sencilla.
+
+•El Teorema de Thévenin es el mejor para determinar la impedancia equivalente de un circuito resumido a una fuente y una impedancia por tanto en Corto circuito se usa para determinar la corriente de protección de los interruptores además si se necesita hacer una máxima transferencia de potencia en un sistema se obtiene el equivalente de Thévenin y se usa ese mismo valor de impedancia y por tanto tendremos la máxima transferencia de carga , se usa para determinar la resistencia equivalente de una fuente de poder
+
+# 7. Bibliografia Web 
+
+https://www.monografias.com/trabajos81/teorema-thevenin-y-norton/teorema-thevenin-y-norton.shtml#:~:text=El%20teorema%20de%20Thevenin%20sirve,con%20una%20resistencia%20(RTh).&text=A%20este%20voltaje%20se%20le,resistencia%20se%20la%20llama%20RTh.
+
+https://es.wikipedia.org/wiki/Teorema_de_Th%C3%A9venin#:~:text=En%20la%20teor%C3%ADa%20de%20circuitos,tensi%C3%B3n%20en%20serie%20con%20una
+
+https://www.teorema.top/teorema-de-thevenin/
+
+https://apuntesingenieriaelectrica.blogspot.com/2013/02/conclusiones-thevenin-y-norton.html
