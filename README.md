@@ -123,6 +123,8 @@ La corriente en el resistor R5
 
 ![image](https://user-images.githubusercontent.com/85178869/127015074-f79e6731-2230-4751-bd75-d98bf3d53bc4.png)
 
+![image](https://user-images.githubusercontent.com/85178869/127018426-22867760-0c9f-47dc-834b-e72bce200348.png)
+
 
 # 5. VIDEO
 
